@@ -70,9 +70,9 @@ section {
     text-shadow: 2px 2px 4px #000000;
     text-align: center;
     font-size: x-large;
-    background-image: url("https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-image: url("OfferBackground.jpeg");
     background-repeat: no-repeat;
-    background-size: 50vw auto;
+    background-size: 85vw auto;
     background-position-y: center;
     background-position-x: center;
     border-radius: 15px;
